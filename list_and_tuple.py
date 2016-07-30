@@ -22,7 +22,7 @@ print chars
 # 这里可以看到，list中的元素可以是不同类型的
 
 # 也可以插入元素到指定位置
-chars.insert(0,'a')
+chars.insert(0, 'a')
 print chars
 # 要删除末尾的元素时，可以通过pop()方法
 chars.pop()
