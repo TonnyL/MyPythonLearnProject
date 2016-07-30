@@ -4,16 +4,27 @@
 
 参考的是 [廖雪峰的python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
-1.[第一个python程序:Hello World](https://github.com/marktony/MyPythonLearnProject/blob/master/hello.py)
+* **第一个Python程序**
 
-2.[python基础-1.数据类型和变量](https://github.com/marktony/MyPythonLearnProject/blob/master/base.py)
+[Hello World](https://github.com/marktony/MyPythonLearnProject/blob/master/hello.py)
+* **Python基础**
 
-3.[python基础-2.字符串和编码](https://github.com/marktony/MyPythonLearnProject/blob/master/string_and_encoding.py)
+1.[数据类型和变量](https://github.com/marktony/MyPythonLearnProject/blob/master/base.py)
 
-4.[python基础-3.list和tuple](https://github.com/marktony/MyPythonLearnProject/blob/master/list_and_tuple.py)
+2.[字符串和编码](https://github.com/marktony/MyPythonLearnProject/blob/master/string_and_encoding.py)
 
-5.[python基础-4.条件判断和循环](https://github.com/marktony/MyPythonLearnProject/blob/master/condition_and_loop.py)
+3.[list和tuple](https://github.com/marktony/MyPythonLearnProject/blob/master/list_and_tuple.py)
 
-6.[python基础-5.使用dict和set](https://github.com/marktony/MyPythonLearnProject/blob/master/dict_and_set.py)
+4.[条件判断和循环](https://github.com/marktony/MyPythonLearnProject/blob/master/condition_and_loop.py)
 
-7.[函数-1.调用函数](https://github.com/marktony/MyPythonLearnProject/blob/master/use_function.py)
+5.[使用dict和set](https://github.com/marktony/MyPythonLearnProject/blob/master/dict_and_set.py)
+
+* **函数**
+
+1.[调用函数](https://github.com/marktony/MyPythonLearnProject/blob/master/use_function.py)
+
+2.[定义函数](https://github.com/marktony/MyPythonLearnProject/blob/master/define_function.py)
+
+3.[函数的参数](https://github.com/marktony/MyPythonLearnProject/blob/master/argument_of_func.py)
+
+4.[递归函数](https://github.com/marktony/MyPythonLearnProject/blob/master/recurrence_func.py)
