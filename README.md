@@ -28,3 +28,13 @@
 3.[函数的参数](https://github.com/marktony/MyPythonLearnProject/blob/master/argument_of_func.py)
 
 4.[递归函数](https://github.com/marktony/MyPythonLearnProject/blob/master/recurrence_func.py)
+
+* **高级特征**
+
+1.[切片](https://github.com/marktony/MyPythonLearnProject/blob/master/slice.py)
+
+2.[迭代](https://github.com/marktony/MyPythonLearnProject/blob/master/iteration.py)
+
+3.[列表生成式](https://github.com/marktony/MyPythonLearnProject/blob/master/list_comprehension.py)
+
+4.[生成器](https://github.com/marktony/MyPythonLearnProject/blob/master/generator.py)

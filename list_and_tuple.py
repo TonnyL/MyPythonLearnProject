@@ -2,7 +2,7 @@
 
 # list
 # python内置的一种数据类型。list是一种有序的集合，可以随时添加和删除其中的元素。
-chars = ['a','b','c']
+chars = ['a', 'b', 'c']
 print chars
 # 获取list的长度
 print len(chars)
