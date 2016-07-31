@@ -128,3 +128,36 @@ def is_not_prime_number(num):
 
 print filter(is_not_prime_number, range(1, 101))
 
+
+# 排序算法
+# python内置的sorted()函数可以对list进行排序
+print sorted([1, 4, 3, 6, 9, 0])
+# 此外，sorted()函数也是一个高阶函数，它还可以接收一个比较函数来实现自定义的排序
+# 例如实现倒序排序
+def reversed_cmp(x, y):
+    if x > y:
+        return -1
+    elif x == y:
+        return 0
+    else:
+        return 1
+# 传入自定义的比较函数reversed_cmp,就可以实现倒序排序
+print sorted([1, 4, 3, 6, 9, 0], reversed_cmp)
+
+# 我们再看一个字符串排序
+print sorted(['Allen', 'Cris', 'Bob', 'Joy', 'Marc'])
+# 默认情况下，对字符串排序，是按照ASCII码的大小比较的
+# 由于'Z' < 'a'，结果大写字母Z会排在小写字母a的前面
+# 现在，我们提出排序应该忽略大小写，按照字母排序
+# 要实现这个算法，不必对现有代码大加改动，只要定义出能忽略大小写的算法即可
+def cmp_ignore_case(s1, s2):
+    u1 = s1.upper()
+    u2 = s2.upper()
+    if u1 < u2:
+        return -1
+    elif u1 > u2:
+        return 1
+    else:
+        return 0
+
+print sorted(['abs', 'Abc', 'Marc', 'Justin'], cmp_ignore_case)

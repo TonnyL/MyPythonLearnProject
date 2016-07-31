@@ -42,3 +42,9 @@
 * **函数式编程**
 
 1.[高阶函数](https://github.com/marktony/MyPythonLearnProject/blob/master/higher_order_function.py)
+
+2.[返回函数](https://github.com/marktony/MyPythonLearnProject/blob/master/return_func.py)
+
+3.[匿名函数](https://github.com/marktony/MyPythonLearnProject/blob/master/anonymous_func.py)
+
+4.[装饰器](https://github.com/marktony/MyPythonLearnProject/blob/master/decorator.py)
