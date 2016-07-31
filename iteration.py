@@ -33,5 +33,5 @@ print isinstance(123, Iterable)
 for index, value in enumerate(['A', 'B', 'C']):
     print index, value
 # 上面的for循环中，同时引用了两个变量，类似于下面的代码：
-for x,y in [(1, 'a'), (2, 'b'), (3, 'c')]:
+for x, y in [(1, 'a'), (2, 'b'), (3, 'c')]:
     print 'x->', x, 'y->', y

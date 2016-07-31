@@ -28,4 +28,3 @@ print unicode(100)
 # 函数名其实是指向一个函数的引用，完全可以把函数名赋值给一个变量，相当于给这个函数起了一个别名
 absolute = abs
 print absolute(-1)
-
