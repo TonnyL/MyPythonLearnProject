@@ -62,3 +62,7 @@
 1.[类和实例](https://github.com/marktony/MyPythonLearnProject/blob/master/class_and_instance.py)
 
 2.[访问限制](https://github.com/marktony/MyPythonLearnProject/blob/master/limited_access.py)
+
+3.[继承和多态](https://github.com/marktony/MyPythonLearnProject/blob/master/inheritance_and_polymorphism.py)
+
+4.[获取对象信息](https://github.com/marktony/MyPythonLearnProject/blob/master/get_info_of_obj.py)
