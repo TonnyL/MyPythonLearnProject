@@ -56,3 +56,9 @@
 2.[安装第三方模块](https://github.com/marktony/MyPythonLearnProject/blob/master/install_module.py)
 
 3.[使用__future__](https://github.com/marktony/MyPythonLearnProject/blob/master/use_future.py)
+
+* **面向对象编程**
+
+1.[类和实例](https://github.com/marktony/MyPythonLearnProject/blob/master/class_and_instance.py)
+
+2.[访问限制](https://github.com/marktony/MyPythonLearnProject/blob/master/limited_access.py)
