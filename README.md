@@ -48,3 +48,11 @@
 3.[匿名函数](https://github.com/marktony/MyPythonLearnProject/blob/master/anonymous_func.py)
 
 4.[装饰器](https://github.com/marktony/MyPythonLearnProject/blob/master/decorator.py)
+
+* **模块**
+
+1.[使用模块](https://github.com/marktony/MyPythonLearnProject/blob/master/use_module.py)
+
+2.[安装第三方模块](https://github.com/marktony/MyPythonLearnProject/blob/master/install_module.py)
+
+3.[使用__future__](https://github.com/marktony/MyPythonLearnProject/blob/master/use_future.py)
