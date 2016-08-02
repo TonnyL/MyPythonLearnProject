@@ -66,3 +66,13 @@
 3.[继承和多态](https://github.com/marktony/MyPythonLearnProject/blob/master/inheritance_and_polymorphism.py)
 
 4.[获取对象信息](https://github.com/marktony/MyPythonLearnProject/blob/master/get_info_of_obj.py)
+
+* **面向对象高级编程**
+
+1.[使用__slots__](https://github.com/marktony/MyPythonLearnProject/blob/master/use_slots.py)
+
+2.[使用@property](https://github.com/marktony/MyPythonLearnProject/blob/master/use_@property.py)
+
+3.[多重继承](https://github.com/marktony/MyPythonLearnProject/blob/master/multiple_inheritance.py)
+
+4.[定制类](https://github.com/marktony/MyPythonLearnProject/blob/master/customed_class.py)
