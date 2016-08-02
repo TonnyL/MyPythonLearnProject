@@ -75,4 +75,8 @@
 
 3.[多重继承](https://github.com/marktony/MyPythonLearnProject/blob/master/multiple_inheritance.py)
 
-4.[定制类](https://github.com/marktony/MyPythonLearnProject/blob/master/customed_class.py)
+4.[定制类](https://github.com/marktony/MyPythonLearnProject/blob/master/customized_class.py)
+
+* **错误、调试和测试**
+
+1.[错误处理](https://github.com/marktony/MyPythonLearnProject/blob/master/handle_error.py)
