@@ -80,3 +80,5 @@
 * **错误、调试和测试**
 
 1.[错误处理](https://github.com/marktony/MyPythonLearnProject/blob/master/handle_error.py)
+
+2.[调试](https://github.com/marktony/MyPythonLearnProject/blob/master/debug.py)
